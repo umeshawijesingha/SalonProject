@@ -1,0 +1,58 @@
+
+.Head{
+    height:80px;
+   background-color: darkorchid;
+    width: 100%px;
+    position: relative;
+
+
+}
+
+.logo{
+    position: absolute;
+    float:left;
+    width:80px;
+    height:80px;
+}
+
+.name{
+    position: absolute;
+    margin-left:85px;
+    font-family:  'Lobster', cursive;
+    margin-top: 0;
+    text-align: center;
+    font-size: 50px;
+}
+
+.callIcon{
+    margin-top: 10px;
+    margin-left: 90%;
+    position: absolute;
+    font-size:30px
+}
+.phone{
+    margin-top: 10px;
+    margin-left: 92%;
+    position: absolute;
+}
+
+.signUp{
+    position: absolute;
+    margin-left:88% ;
+    color:black;
+    margin-top: 50px;
+    width: 80px;
+    height:30px;
+    font-size: medium;
+}
+
+.logIn{
+    position: absolute;
+    margin-left:94% ;
+    margin-top: 50px;
+    color: black;
+    width: 80px;
+    height:30px;
+    font-size: medium;
+}
+

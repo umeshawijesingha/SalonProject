@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Footer{
+    height: 500px;
+    background-color: teal;
+    margin-top: 0;
+}
+
+.FooterContent{
+    background-color:white;
+    width:100%;
+    height: 200px;
+}
