@@ -1,5 +1,6 @@
 import React from 'react';
 import img from '../../assets/mainImage.jpg';
+
 import classes from './Main.module.css'
 
 

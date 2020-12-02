@@ -4,7 +4,7 @@ import SalonBuilder from '../../container/SalonBuilder/SalonBuilder'
 import Img from '../../assets/logo.jpg'
 import { IoIosCall } from 'react-icons/io'
 import classes from './Header.module.css';
-import Modal from '../UI/Modal';
+
 
 
 function Header(props){
@@ -18,12 +18,12 @@ function Header(props){
         <img className={classes.logo}  src={Img}  height="80px"/> 
         <h1 className={classes.name}>Salon {props.name}</h1>
         
-            
-              <button className={classes.signUp}>
+           
+              <button onClick={props.signUpClicked} className={classes.signUp}>
               Sign Up
               </button>
 
-              <button className={classes.logIn}>
+              <button onClick={props.logInClicked} className={classes.logIn}>
                   Log In
               </button>
     
