@@ -4,18 +4,133 @@
 
 }
 
+
+
  .mainimage{
     
     width:1520px;
     height:700px;
     
-
-    
-    margin-bottom: 0;
+   
 }
+
 
 .imagecontainer{
     width:1000px;
-    height: 1000px;
+    height: 3700px;
+    margin: 0;
+    padding: 0;
+   
     
+}
+.content{
+   
+  
+    height: 1000px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    width:1520px;
+    background-color: rgba(247, 76, 181, 0.5);
+    
+}
+
+.subcontent{
+    width:1520px;
+    height:1200px;
+    background-color: rgba(0, 0, 0, 0.61);
+  
+}
+
+.subimages{
+  
+    height: 1000px;
+    width: 1520px;
+    padding: 10%;
+    padding-top:5%;
+    
+  
+   
+   
+    
+}
+
+.sub{
+
+    width:400px;
+    height: 350px;
+    padding-left: 12%;
+    
+    padding-top: 30px;
+    
+    
+    
+}
+
+.introduct{
+
+   
+    width: 1520px;
+    height: 200px;
+   
+      
+}
+
+.introduct p{
+    padding: 3%;
+    line-height: 30px;
+    padding: 10%;
+    padding-top:5% ;
+   
+}
+
+.contentimg{
+
+    width:700px;
+    height: 450px;
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+.discription{
+   
+    opacity: 0.95;
+    width: 1520px;
+    height: 800px;
+    background-color: rgb(255, 205, 216);
+ 
+}
+
+.authorimg{
+    width:400px;
+    height: 400px;
+    margin:60px;
+    border:1px ;
+    border-radius: 50%;
+    padding:10%;
+   
+}
+.authorimgcontainer{
+    width:600px;
+    height: 800px;
+    float: left;
+    
+}
+
+.authorintrocontainer{
+    width:920px;
+    height: 800px;
+    
+    float: left;
+
+   
+}
+
+.authorintrocontainer p{
+    padding:20%;
+    padding-left:5% ;
+    padding-top:30% ;
+    font-size: 20px;
+
+
 }
