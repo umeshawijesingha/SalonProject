@@ -1,0 +1,44 @@
+
+
+.close{
+    width: 30px;
+    margin-left: 430px;
+}
+
+.label{
+    text-align: left;
+    width: 30px;
+    font-size: 20px;
+}
+
+.title{
+    text-align: center;
+}
+
+.submitbtn{
+    width:450px;
+    height:40px;
+    background-color: rgb(165, 165, 231);
+    font-weight: bold;
+    font-size: medium;
+}
+
+.submitbtn:hover{
+    color: blue;
+    background-color: rgb(67, 67, 250);
+}
+
+.inputField{
+    width:450px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.inputFieldSignUp{
+    width: 450px;
+    height: 30px;
+}
+
+.signUpModal{
+    height: 1500px;
+}
